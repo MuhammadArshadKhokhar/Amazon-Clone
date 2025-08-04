@@ -35,7 +35,7 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
 
    ```
    https://github.com/MuhammadArshadKhokhar/Amazon-Clone.git
-   cd Amazon-clone
+
    ```
 2. **Open `index.html` in a browser:**
 
