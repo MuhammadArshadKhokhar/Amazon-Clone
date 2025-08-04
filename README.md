@@ -1,9 +1,6 @@
-
-
 # **Amazon Clone - README**
 
 ![1753883002344](image/README/1753883002344.png)
-
 
 ## **Project Overview**
 
@@ -16,7 +13,6 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
 
 **Live Demo:** [GitHub Pages / Netlify / Vercel Link] *(if deployed)*
 
-
 ## **Features**
 
 ✅ **Responsive Design** – Works on desktop and mobile.
@@ -25,7 +21,6 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
 ✅ **Footer Links** – Organized into columns (e.g., "Get to Know Us," "Make Money with Us").
 ✅ **Language/Currency Selector** – Mimics Amazon’s dropdown-free selector.
 
-
 ## **Technologies Used**
 
 * **HTML5** – Structure of the webpage.
@@ -33,15 +28,14 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
 * **Flexbox/Grid** – Modern layout techniques.
 * **No JavaScript** – Pure frontend (can be extended later).
 
-
 ## **How to Run Locally**
 
 1. **Clone the repository:**
    **sh**
 
    ```
-   https://github.com/MuhammadArshadKhokhar/Web-Development/tree/main/Project
-   cd amazon-clone
+   https://github.com/MuhammadArshadKhokhar/Amazon-Clone.git
+   cd Amazon-clone
    ```
 2. **Open `index.html` in a browser:**
 
